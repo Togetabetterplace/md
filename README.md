@@ -58,9 +58,11 @@
   git push
   ~~~
 
-  ![](E:\Users\Desktop\25195270A5C43AD23C0C6627384CB2B1.jpg)
+  ![](C:\Users\ZichenTian\mintty.2021-10-04_07-59-07.png)
   
-  ![](E:\Users\Desktop\F287920B085A24FD570B4BEAAC28B617.jpg)
+  ![](C:\Users\ZichenTian\mintty.2021-10-04_07-58-53.png)
+  
+  ![](C:\Users\ZichenTian\mintty.2021-10-04_09-53-25.png)
   
   ![](E:\Users\Desktop\717DD3BB30131ACCC2CFEC93632CB775.jpg)
 
